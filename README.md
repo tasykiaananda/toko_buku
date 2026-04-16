@@ -5,12 +5,11 @@ Aplikasi manajemen toko buku online yang dibangun menggunakan **Laravel 12** dan
 ---
 
 ## 🚀 Fitur Utama
-* **Manajemen Inventaris:** CRUD (Create, Read, Update, Delete) data buku lengkap dengan cover.
-* **Kategori Dinamis:** Pengelompokan buku berdasarkan genre atau kategori tertentu.
-* **Dashboard Admin:** Ringkasan data untuk memantau stok dan aktivitas.
-* **Auth System:** Sistem login dan registrasi yang aman.
-* **Responsive Design:** Tampilan yang nyaman diakses dari HP maupun laptop.
-
+* **Landing Page:** Tampilan katalog buku yang responsif dan modern.
+* **Sistem Autentikasi:** Login dan Register untuk admin dan pelanggan.
+* **Manajemen Buku:** CRUD (Create, Read, Update, Delete) data buku, kategori, dan penulis.
+* **Keranjang Belanja:** Memungkinkan pengguna memilih buku sebelum checkout.
+* **Dashboard Admin:** Statistik ringkas mengenai stok dan penjualan.
 ---
 
 ## 🛠️ Stack Teknologi
@@ -32,3 +31,11 @@ Pastikan kamu sudah menginstall **PHP 8.2+**, **Composer**, dan **Node.js**.
 ```bash
 git clone [https://github.com/username-kamu/toko_buku.git](https://github.com/username-kamu/toko_buku.git)
 cd toko_buku
+
+✍️ Pengembang
+Nama: Tasykia Ananda
+
+Prodi: Sistem Informasi
+
+Instansi: Universitas Malikussaleh (UNIMAL)
+
